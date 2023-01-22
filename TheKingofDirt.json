@@ -1,0 +1,29 @@
+{
+  "title": "The King of Dirt",
+  "description": "",
+  "artist": "Gazoogaloo",
+  "author": "Gazoogaloo",
+  "cover": "https://imgur.com/a/Yl4uufR",
+  "chapters": {
+    "1": {
+      "title": "The King of Dirt; Prince",
+      "volume": "",
+      "last_updated": "1674421964",
+      "groups": {
+        "": [
+          "https://imgur.com/a/1SCcpq1"
+        ]
+      }
+    },
+    "2": {
+      "title": "The King of Dirt; The Escape",
+      "volume": "",
+      "last_updated": "1674422024",
+      "groups": {
+        "": [
+          "https://imgur.com/a/DsD7lzV"
+        ]
+      }
+    }
+  }
+}
