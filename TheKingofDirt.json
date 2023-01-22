@@ -7,10 +7,10 @@
   "chapters": {
     "1": {
       "title": "The King of Dirt; Prince",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1674421964",
       "groups": {
-        "": "https://imgur.com/a/1SCcpq1"
+        "King of Dirt": "/proxy/api/imgur/chapter/1SCcpq1"
       }
     },
     "2": {
@@ -18,7 +18,7 @@
       "volume": "1",
       "last_updated": "1674422024",
       "groups": {
-        "king of dirt": "https://imgur.com/a/DsD7lzV"
+        "King of Dirt": "/proxy/api/imgur/chapter/DsD7lzV"
       }
     }
   }
